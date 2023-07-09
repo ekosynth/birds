@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Song Thrush",
+    "description": "A Song Thrush",
+    "img": "http://localhost:9090/images/song-thrush.jpg"
+  },
+  {
+    "name": "Wood Pigeon",
+    "description": "A Wood Pigeon",
+    "img": "http://localhost:9090/images/wood-pigeon.jpg"
+  },
+  {
+    "name": "Blue Tit",
+    "description": "A Blue Tit",
+    "img": "http://localhost:9090/images/blue-tit.jpg"
+  },
+  {
+    "name": "Great Tit",
+    "description": "A Great Tit",
+    "img": "http://localhost:9090/images/great-tit.jpg"
+  },
+  {
+    "name": "Jay",
+    "description": "A Jay",
+    "img": "http://localhost:9090/images/jay.jpg"
+  },
+  {
+    "name": "Long Tailed Tit",
+    "description": "A Long Tailed Tit",
+    "img": "http://localhost:9090/images/long-tailed-tit.jpg"
+  },
+  {
+    "name": "Nuthatch",
+    "description": "A Nuthatch",
+    "img": "http://localhost:9090/images/nuthatch.jpg"
+  },
+  {
+    "name": "Robin",
+    "description": "A Robin",
+    "img": "http://localhost:9090/images/robin.jpg"
+  },
+  {
+    "name": "Woodpecker",
+    "description": "A Woodpecker",
+    "img": "http://localhost:9090/images/woodpecker.jpg"
+  },
+  {
+    "name": "Blackbird",
+    "description": "A blackbird",
+    "img": "http://localhost:9090/images/blackbird.jpg"
+  }
+]

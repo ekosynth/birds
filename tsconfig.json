@@ -1,0 +1,18 @@
+{
+  "exclude": ["build/**/*", "src/test/**/*"],
+  "include": ["src/**/*"],
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "./build",
+    "rootDir": "./src",
+    "allowJs": true,
+    "alwaysStrict": true,
+    "target": "es2019",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "typeRoots": ["node_modules/@types/"],
+    "types": ["node"]
+  }
+}
